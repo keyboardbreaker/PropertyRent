@@ -1,0 +1,71 @@
+# Rider
+.idea/
+*.sln.iml
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.rsuser
+
+# Build results
+bin/
+obj/
+
+# Visual Studio
+.vs/
+
+# ReSharper
+_ReSharper*/
+*.DotSettings.user
+
+# NuGet
+*.nupkg
+packages/
+
+# Publish output
+publish/
+
+# Test Results
+TestResults/
+
+# Logs
+*.log
+
+# Coverage
+coverage/
+coverage.xml
+*.coverage
+*.coveragexml
+
+# Temporary files
+*.tmp
+*.temp
+
+# OS Files
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Environment files
+.env
+.env.local
+
+# ASP.NET Secrets
+secrets.json
+
+# SQLite databases
+*.db
+*.db-shm
+*.db-wal
+
+# JetBrains caches
+.idea_modules/
+
+# Generated files
+Generated/
+readme.md
